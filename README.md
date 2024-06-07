@@ -1,11 +1,8 @@
 <div align="center">
   <br />
-  <a href="https://youtu.be/kRQbRAJ4-Fs" target="_blank">
-    <img src="https://postimg.cc/K4hVnv6x" alt="Project Banner">
-    <img src="https://postimg.cc/0MRtdcHc" alt="Project Banner">
-   
-    
-  </a>
+  <img src="https://i.postimg.cc/K4hVnv6x/image1.png" alt="Project Banner 1">
+  <img src="https://i.postimg.cc/0MRtdcHc/image2.png" alt="Project Banner 2">
+  <img src="https://i.postimg.cc/HVxtMqkT/image3.png" alt="Project Banner 3">
   <br />
 
   <h3 align="center">iPhone 15 Website</h3>
