@@ -1,9 +1,4 @@
 <div align="center">
-  <br />
-  <img src="https://postimg.cc/jWG13sC6" alt="Project Banner 1" style="width: 100%; max-width: 600px; height: auto;">
- 
-  <br />
-
   <h3 align="center">iPhone 15 Website</h3>
 </div>
 
