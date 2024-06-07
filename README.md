@@ -1,8 +1,16 @@
+<style>
+  .large-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+</style>
+
 <div align="center">
   <br />
-  <img src="https://i.postimg.cc/K4hVnv6x/image1.png" alt="Project Banner 1">
-  <img src="https://i.postimg.cc/0MRtdcHc/image2.png" alt="Project Banner 2">
-  <img src="https://i.postimg.cc/HVxtMqkT/image3.png" alt="Project Banner 3">
+  <img src="https://postimg.cc/jWG13sC6" alt="Project Banner 1" class="large-image">
+  <img src="https://i.postimg.cc/0MRtdcHc/image2.png" alt="Project Banner 2" class="large-image">
+  <img src="https://i.postimg.cc/HVxtMqkT/image3.png" alt="Project Banner 3" class="large-image">
   <br />
 
   <h3 align="center">iPhone 15 Website</h3>
